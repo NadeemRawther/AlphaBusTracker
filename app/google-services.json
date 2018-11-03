@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "975822424733",
+    "firebase_url": "https://alphabustracker.firebaseio.com",
+    "project_id": "alphabustracker",
+    "storage_bucket": "alphabustracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975822424733:android:7ea3b34f9698e5d8",
+        "android_client_info": {
+          "package_name": "com.nads.alphabustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975822424733-4rl238ugo2ifate93groeujol3mr63dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCfNHB33GL6M_QNROqhyPuB_S7M4OsKMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
